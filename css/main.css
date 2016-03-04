@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-
   font: normal 100%/1.5 "Source Sans Pro", sans-serif;
 }
 
@@ -11,6 +10,7 @@ html {
 body {
   font-size: 3rem;
   text-align: center;
+}
 
 p {
   color: darkgoldenrod;
@@ -20,6 +20,6 @@ p {
 p span {
   display: block;
 
-  color gold;
+  color: gold;
   font-size: 5rem;
 }
